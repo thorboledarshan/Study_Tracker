@@ -206,7 +206,3 @@ Contributions are welcome! If you'd like to improve Study Tracker:
 5. Open a Pull Request
 
 ---
-
-## License
-
-No license has been specified for this repository yet. Consider adding one (e.g., MIT) to clarify how others can use this project.
